@@ -1,8 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   background: linear-gradient(45deg, rgba(255,145,211,1) 0%, rgba(0,128,128,1) 100%) no-repeat;
+  min-height: 100vh;
 }
 
 
